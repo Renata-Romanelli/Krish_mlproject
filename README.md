@@ -1,9 +1,12 @@
 ## End to End Machine Learning Project
 
 1. Set up the github (repository)
-    a) new enviroment
-    b) setup.py 
-    c) requirements.txt
+
+   a) new enviroment
+   
+   b) setup.py
+   
+   c) requirements.txt
 
 Descrição:
   - Criar um repositório na conta online do github (sem nada)
