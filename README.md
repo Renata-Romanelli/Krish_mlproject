@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## End to End Machine Learning Project
 
 1. Set up the github (repository)
@@ -18,6 +17,3 @@ Descrição:
   - Ativar o ambiente virtual com o comando: conda activate venv/
   - Sincronizar repositório git local com o online seguindo os passos do github
   - Criar arquivo README.md
-=======
-## End to End Machine Learning Project
->>>>>>> parent of 7ee786d (criação do venv e README.md)
