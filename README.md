@@ -30,3 +30,17 @@ b e c)
   - Criar arquivo "__init__.py" dentro da pasta src (no VScode)
   - rodar o comando: pip install -r requirements.txt no terminal
   - Verificar se foi criado o pacote ml_project.egg-info
+
+3. Create project structure
+
+   - Criar pasta components contendo (arquivos em branco):
+      - init.py
+      - data_ingestion.py
+      - data_transformation.py
+      - model_trainer.py
+   - Criar pasta pipele contendo:
+      - init.py
+      - predict_pipeline.py
+      - train_pipeline.py
+   - Project logging module implementation
+   - Testing Logging and Exception Handling 
