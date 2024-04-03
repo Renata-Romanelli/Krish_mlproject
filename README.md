@@ -43,4 +43,13 @@ b e c)
       - predict_pipeline.py
       - train_pipeline.py
    - Project logging module implementation
-   - Testing Logging and Exception Handling 
+   - Testing Logging and Exception Handling
+
+4. Create 'notebook' folder with a 'data' folder and the notebooks needed to the project
+
+5. Write data_ingestion.py file and run file 
+   - This file already creates train and test artifacts
+   - don't forget to add ".artifacts" in .gitignore
+
+
+
