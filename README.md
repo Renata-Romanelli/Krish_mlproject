@@ -1,5 +1,7 @@
 ## End to End Machine Learning Project
 
+Based on Krish Naik tutorials: https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2&ab_channel=KrishNaik
+
 1. Set up the github (repository)
 
    a) new enviroment
