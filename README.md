@@ -51,5 +51,7 @@ b e c)
    - This file already creates train and test artifacts
    - don't forget to add ".artifacts" in .gitignore
 
-
-
+6. Preencher arquivo data_transformation.py
+   - classe transformation conig
+   - criar função 'save_obj' no arquivo utils
+   - chamar funções da data_transformation no data_ingestion.py
